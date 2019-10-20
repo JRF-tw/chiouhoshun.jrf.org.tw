@@ -365,7 +365,7 @@ a:hover {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    text-shadow: 1px 1px #373C38
+    text-shadow: 1px 1px #373C38;
 }
 
 @media (min-width:768px) {
