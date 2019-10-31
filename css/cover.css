@@ -243,6 +243,14 @@ a.gift-a{
     color: #ffffff;
 }
 
+.progress-bar{
+    line-height:30px;
+    font-size:14px;
+}
+.progress{
+    height:30px;
+    font-family: 
+}
 @media (min-width:768px) {
     p {
         font-size: 20px;
